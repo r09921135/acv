@@ -1,4 +1,4 @@
-# EE5184 Machine Learning
+# CSIE7421 Advanced Computer Vision
 
 ## Description
 This course is from the department of Electrical Engineering, National Taiwan University (NTU).  
