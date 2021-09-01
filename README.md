@@ -5,7 +5,7 @@ This course is from the department of Electrical Engineering, National Taiwan Un
 Lecturer: Prof. Chiou-Shann Fuh  
 [Course website](http://cv2.csie.ntu.edu.tw/CV2/index.html?fbclid=IwAR2HoqCW1QbtHpD7ic3KgQjk8I3DIKLU-sixVqIx366wTZ4r08Vb1owFsIk) 
 
-### HW1: Image Matching (Detecting Motion Vectors)  [link](https://github.com/r09921135/ml/tree/master/HW1)
+### HW1: Image Matching  [link](https://github.com/r09921135/ml/tree/master/HW1)
 
 ### HW2: Optical Flow Estimation  [link](https://github.com/r09921135/ml/tree/master/HW2)
 
