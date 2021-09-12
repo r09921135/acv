@@ -28,3 +28,7 @@
 |![crosswalk_front](https://github.com/r09921135/acv/blob/master/hw3/input/crosswalk_front.jpg)|![part3](https://github.com/r09921135/acv/blob/master/hw3/part3.png)| 
 
 * Part 4: Simple AR
+   
+|  Input Video |  Result Video  |
+| ------- | :-------: |
+|![img1](https://github.com/r09921135/acv/blob/master/hw3/image/img1.png)|![img2](https://github.com/r09921135/acv/blob/master/hw3/image/img2.png)| 
