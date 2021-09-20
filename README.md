@@ -1,7 +1,7 @@
 # CSIE7421 Advanced Computer Vision
 
-## Description
-This repository records my pregresses on computer vision related projects.  
+## Descriptions
+This repository records my progresses on computer vision related projects.  
 
 ### HW1: Image Matching  [[link]](https://github.com/r09921135/acv/tree/master/hw1)
 
