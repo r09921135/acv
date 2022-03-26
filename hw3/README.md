@@ -31,4 +31,4 @@
    
 |  Input Video |  Result Video  |
 | ------- | :-------: |
-|![img1](https://github.com/r09921135/acv/blob/master/hw3/image/img1.png)|![img2](https://github.com/r09921135/acv/blob/master/hw3/image/img2.png)| 
+|<img src="https://github.com/r09921135/acv/blob/master/hw3/image/ar_marker.gif" width="480" height="270" />|<img src="https://github.com/r09921135/acv/blob/master/hw3/image/ar_video.gif" width="480" height="270" />|
